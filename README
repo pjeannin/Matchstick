@@ -1,0 +1,9 @@
+The matchstick game is very simple. There are stick, organized in differents row.
+The player has to remove n-stick each turn. It is the same for the AI. The one which
+remove the last stick lose the game.
+
+How to lauch the game :
+
+./matchstick number_of_row n_max
+
+n_max is the highest nulber of stick that can be removed in one round.
